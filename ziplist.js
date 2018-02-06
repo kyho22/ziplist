@@ -1,5 +1,5 @@
-const alist = [1, 2, 3];
-const blist = ['a', 'b', 'c'];
+const alist = ['a', 'b', 'c'];
+const blist = [1, 2, 3];
 
 function zipList(list1, list2) {
   const newArray = [];
